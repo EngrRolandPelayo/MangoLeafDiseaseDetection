@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/pi/plant-disease-detection/PlantDiseaseDetectionV1.1/healthyvsunhealthy-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/home/pi/plant-disease-detection/PlantDiseaseDetectionV1.1/healthyvsunhealthy-0.001-2conv-basic.model"
